@@ -1,0 +1,69 @@
+{
+	"song": {
+		"speed": 2.4,
+		"stage": "room",
+		"player1": "screambf",
+		"player2": "GF-Phase1",
+		"player3": null,
+		"events": [
+			[
+				45568.1818181818,
+				[
+					[
+						"funnystatic",
+						"1",
+						""
+					]
+				]
+			],
+			[
+				47272.7272727273,
+				[
+					[
+						"Change Character",
+						"1",
+						"torment"
+					],
+					[
+						"Change Character",
+						"BF",
+						"whydidyoudothis"
+					]
+				]
+			],
+			[
+				74659.0909090909,
+				[
+					[
+						"funnystatic",
+						"2",
+						""
+					]
+				]
+			],
+			[
+				76363.6363636364,
+				[
+					[
+						"Change Character",
+						"1",
+						"GF-Phase1"
+					],
+					[
+						"Change Character",
+						"BF",
+						"screambf"
+					]
+				]
+			]
+		],
+		"notes": [],
+		"splashSkin": null,
+		"validScore": false,
+		"gfVersion": "gf",
+		"bpm": 132,
+		"arrowSkin": null,
+		"needsVoices": true,
+		"song": "Dessert"
+	}
+}

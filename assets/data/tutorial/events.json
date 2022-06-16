@@ -1,0 +1,44 @@
+{
+	"song": {
+		"speed": 1.4,
+		"stage": null,
+		"player1": "bf",
+		"player2": "gf",
+		"player3": null,
+		"events": [
+			[
+				45777.7777777778,
+				[
+					[
+						"Hey!",
+						"hi",
+						""
+					],
+					[
+						"Add Camera Zoom",
+						"1",
+						""
+					]
+				]
+			],
+			[
+				67555.5555555556,
+				[
+					[
+						"Hey!",
+						"GF",
+						""
+					]
+				]
+			]
+		],
+		"notes": [],
+		"splashSkin": null,
+		"validScore": false,
+		"gfVersion": "gf",
+		"bpm": 135,
+		"arrowSkin": null,
+		"needsVoices": true,
+		"song": "Tutorial"
+	}
+}

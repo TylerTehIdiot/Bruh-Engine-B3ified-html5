@@ -1,0 +1,49 @@
+{
+	"storyName": "B3 x EXE",
+	"difficulties": "Easy, Normal, Hard, Getreal",
+	"hideFreeplay": false,
+	"weekBackground": "stage",
+	"weekBefore": "tutorial",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"startUnlocked": true,
+	"hideStoryMode": true,
+	"songs": [
+		[
+			"Endless",
+			"b3geeckoirl",
+			[
+				58,
+				167,
+				115
+			]
+		],
+		[
+			"Sunshine",
+			"tails",
+			[
+				255,
+				235,
+				155
+			]
+		],
+		[
+			"Triple B Trouble",
+			"evil",
+			[
+				0,
+				0,
+				0
+			]
+		]
+	],
+	"weekCharacters": [
+		"monstergf",
+		"bf",
+		"gf"
+	],
+	"weekName": "EXE"
+}
